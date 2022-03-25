@@ -1,0 +1,6 @@
+export const SET_TURN = 'App/SET_TURN';
+export const INCREMENT_TURN = 'App/INCREMENT_TURN';
+export const DECREMENT_TURN = 'App/DECREMENT_TURN';
+export const REQUEST_DATA = 'App/REQUEST_DATA';
+export const SET_SPIN_RANDOM = 'App/SET_SPIN_RANDOM';
+export const SET_IS_SHOW_RANDOM_SCREEN = 'App/SET_IS_SHOW_RANDOM_SCREEN';
